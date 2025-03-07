@@ -1,1 +1,1 @@
-# rode-nt-usb-c
+# RØDE NT-USB-C
