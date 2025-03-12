@@ -13,6 +13,10 @@ All components are SMD 1206 for easy hand soldering.
 - **Shield Connection**: The **1MΩ resistor** connects the shield to the ground for proper grounding and noise reduction.
 - **Biasing**: Two **5.11KΩ resistors** are used for voltage biasing or pull-up/down configurations.
 
+## Images
+
+![screenshot](https://raw.githubusercontent.com/CityRunner/rode-nt-usb-c/refs/heads/main/img/pcb.png?raw=true)
+
 ## Component List:
 
 | Reference | Qty | Value                            | Digikey Number               |
