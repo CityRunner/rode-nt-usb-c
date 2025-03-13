@@ -25,5 +25,5 @@ All components are SMD 1206 for easy hand soldering.
 | J1        | 1   | CONN RCP USB2.0 TYP C 24P SMD RA | 2073-USB4105-GF-ACT-ND       |
 | J2        | 1   | CONN HEADER VERT 5POS 2MM        | 2057-2PH1-05-UA-ND           |
 | R1        | 1   | RES 1M OHM 1% 1/4W 1206          | 2019-HV732BTTD1004FCT-ND     |
-| R2, R3    | 2   | RES 5.11K OHM 1% 1/4W 1206       | RMCF1206FT5K11CT-ND          |
-| R4        | 1   | RES 220 OHM 1% 1/4W 1206         | 311-220FRCT-ND               |
+| R2        | 1   | RES 220 OHM 1% 1/4W 1206         | 311-220FRCT-ND               |
+| R3, R4    | 2   | RES 5.11K OHM 1% 1/4W 1206       | RMCF1206FT5K11CT-ND          |

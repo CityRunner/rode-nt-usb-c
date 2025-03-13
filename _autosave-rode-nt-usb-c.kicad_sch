@@ -1884,7 +1884,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1176346d-07a6-4528-b50a-b797a5815b78")
-		(property "Reference" "R2"
+		(property "Reference" "R4"
 			(at 130.81 83.8199 0)
 			(effects
 				(font
@@ -1938,7 +1938,7 @@
 		(instances
 			(project "rode-nt-usb-c"
 				(path "/65483df2-e61e-4f34-9202-fac169fa34d7"
-					(reference "R2")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -2223,7 +2223,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56c678e3-e299-4472-a5dd-d5f60563281c")
-		(property "Reference" "J3"
+		(property "Reference" "J1"
 			(at 86.36 63.5 0)
 			(effects
 				(font
@@ -2320,7 +2320,7 @@
 		(instances
 			(project ""
 				(path "/65483df2-e61e-4f34-9202-fac169fa34d7"
-					(reference "J3")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -2872,7 +2872,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5ae2c96-b59f-4824-aad7-d804b88913c5")
-		(property "Reference" "R4"
+		(property "Reference" "R2"
 			(at 109.22 66.0399 0)
 			(effects
 				(font
@@ -2926,7 +2926,7 @@
 		(instances
 			(project "rode-nt-usb-c"
 				(path "/65483df2-e61e-4f34-9202-fac169fa34d7"
-					(reference "R4")
+					(reference "R2")
 					(unit 1)
 				)
 			)
