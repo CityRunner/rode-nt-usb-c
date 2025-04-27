@@ -10,12 +10,11 @@ All components are SMD 1206 for easy hand soldering.
 
 - **USB-C Connector**: Uses a 16-pin USB-C connector for edge-mounting on the PCB.
 - **Power LED**: Includes a red LED for power indication. **220Ω resistor** limits current to the LED, preventing burnout.
-- **Shield Connection**: The **1MΩ resistor** connects the shield to the ground for proper grounding and noise reduction.
 - **Biasing**: Two **5.11KΩ resistors** are used for voltage biasing or pull-up/down configurations.
 
 ## Images
 
-![screenshot](https://raw.githubusercontent.com/CityRunner/rode-nt-usb-c/refs/heads/main/img/pcb.png?raw=true)
+![screenshot](https://raw.githubusercontent.com/CityRunner/rode-nt-usb-c/refs/heads/main/misc/pcb.png?raw=true)
 
 ## Component List:
 
@@ -24,6 +23,5 @@ All components are SMD 1206 for easy hand soldering.
 | D1        | 1   | LED RED CLEAR 1206 SMD           | 754-APTR3216SECK/J3-PRVCT-ND |
 | J1        | 1   | CONN RCP USB2.0 TYP C 24P SMD RA | 2073-USB4105-GF-ACT-ND       |
 | J2        | 1   | CONN BRD STACK 2.00 40POS        | 612-TW-40-11-S-S-170-100-ND  |
-| R1        | 1   | RES 1M OHM 1% 1/4W 1206          | 2019-HV732BTTD1004FCT-ND     |
-| R2        | 1   | RES 220 OHM 1% 1/4W 1206         | 311-220FRCT-ND               |
-| R3, R4    | 2   | RES 5.11K OHM 1% 1/4W 1206       | RMCF1206FT5K11CT-ND          |
+| R1        | 1   | RES 220 OHM 1% 1/4W 1206         | 311-220FRCT-ND               |
+| R2, R3    | 2   | RES 5.11K OHM 1% 1/4W 1206       | RMCF1206FT5K11CT-ND          |
