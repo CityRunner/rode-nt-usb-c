@@ -1,6 +1,4 @@
-# RODE NT-USB-C
-
-## USB-C Adapter for RØDE NT-USB Microphone
+# USB-C Adapter for RØDE NT-USB Microphone
 
 Drop-in USB-C daughterboard for the RØDE NT-USB microphone, replacing the original USB-B port.
 Designed to fit inside the existing housing—no modification required.
@@ -27,7 +25,7 @@ All components are 1206 SMD for easy hand soldering and compact layout.
 | R1        | 1   | RES 220 OHM 1% 1/4W 1206         | 311-220FRCT-ND               |
 | R2, R3    | 2   | RES 5.11K OHM 1% 1/4W 1206       | RMCF1206FT5K11CT-ND          |
 
-> ℹ️ **Important:** The J2 connector must be **exactly** this size (mm):
+ℹ️ **Important:** The J2 connector must be **exactly** this size (mm):
 
 - **Pitch:** 2.00
 - **Length:**
