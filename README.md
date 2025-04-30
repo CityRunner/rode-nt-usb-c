@@ -2,15 +2,16 @@
 
 ## USB-C Adapter for RØDE NT-USB Microphone
 
-This project involves designing and building a **drop-in USB-C daughterboard** to replace the original **USB-B** port in the **RØDE NT-USB**, enabling compatibility with modern USB-C connections.
-The adapter includes a power LED indicator that shines through a transparent 3D-printed insert, and uses a compact, efficient design to fit within the microphone's housing.
-All components are SMD 1206 for easy hand soldering.
+Drop-in USB-C daughterboard for the RØDE NT-USB microphone, replacing the original USB-B port.
+Designed to fit inside the existing housing—no modification required.
+Includes a power LED visible through a transparent 3D-printed insert.
+All components are 1206 SMD for easy hand soldering and compact layout.
 
 ## Features
 
-- **USB-C Connector**: Uses a 16-pin USB-C connector for edge-mounting on the PCB.
-- **Power LED**: Includes a red LED for power indication. **220Ω resistor** limits current to the LED, preventing burnout.
-- **Biasing**: Two **5.11KΩ resistors** are used for voltage biasing or pull-up/down configurations.
+- **USB-C Connector**: 16-pin edge-mount receptacle.
+- **Power Indicator**: Red LED with 220 Ω current-limiting resistor.
+- **CC Biasing**: Two 5.11 kΩ pull-down resistors for host detection.
 
 ## Images
 
@@ -25,3 +26,12 @@ All components are SMD 1206 for easy hand soldering.
 | J2        | 1   | CONN BRD STACK 2.00 40POS        | 612-TW-40-11-S-S-170-100-ND  |
 | R1        | 1   | RES 220 OHM 1% 1/4W 1206         | 311-220FRCT-ND               |
 | R2, R3    | 2   | RES 5.11K OHM 1% 1/4W 1206       | RMCF1206FT5K11CT-ND          |
+
+> ℹ️ **Important:** The J2 connector must be **exactly** this size (mm):
+
+- **Pitch:** 2.00
+- **Length:**
+  - **Overall:** 10.08
+  - **Post:** 3.22
+  - **Stack:** 4.31
+  - **Tail:** 2.54
