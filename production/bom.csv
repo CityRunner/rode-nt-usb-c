@@ -2,6 +2,5 @@
 D1,1206,1,LED,
 J1,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,1,USB_C_Receptacle_USB2.0_16P,
 J2,PinHeader_1x05_P2.00mm_Vertical,1,Conn_01x05_Pin,
-R1,1206,1,1M,
-R2,1206,1,R,
-"R3, R4",1206,2,5.11K,
+R1,1206,1,R,
+"R2, R3",1206,2,5.11K,
