@@ -11,6 +11,9 @@ All components are 1206 SMD for easy hand soldering and compact layout.
 - **Power Indicator**: Red LED with 220 Ω current-limiting resistor.
 - **CC Biasing**: Two 5.11 kΩ pull-down resistors for host detection.
 
+
+❗**Note:** Tested with the original shielded RØDE SC18 USB-A to USB-C cable. Using cheap USB cables may cause additional noise.
+
 ## Images
 
 ![screenshot](https://raw.githubusercontent.com/CityRunner/rode-nt-usb-c/refs/heads/main/misc/pcb.png?raw=true)
@@ -25,7 +28,7 @@ All components are 1206 SMD for easy hand soldering and compact layout.
 | R1        | 1   | RES 220 OHM 1% 1/4W 1206         | 311-220FRCT-ND               |
 | R2, R3    | 2   | RES 5.11K OHM 1% 1/4W 1206       | RMCF1206FT5K11CT-ND          |
 
-ℹ️ **Important:** The J2 connector must be **exactly** this size (mm):
+❗**Important:** The J2 connector must be **exactly** this size (mm):
 
 - **Pitch:** 2.00
 - **Length:**
