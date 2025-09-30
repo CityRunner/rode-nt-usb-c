@@ -1,9 +1,14 @@
-# USB-C Adapter for RØDE NT-USB Microphone
+# USB-C Mod for RØDE NT-USB Microphone
 
 Drop-in USB-C daughterboard for the RØDE NT-USB microphone, replacing the original USB-B port.
-Designed to fit inside the existing housing—no modification required.
+
+Designed to fit inside the existing housing - no modification required.
 Includes a power LED visible through a transparent 3D-printed insert.
 All components are 1206 SMD for easy hand soldering and compact layout.
+
+Watch step-by-step installation on [![YouTube:](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/nsAjaJf2-Ug)
+
+[<img src="https://img.youtube.com/vi/nsAjaJf2-Ug/hqdefault.jpg"/>](https://www.youtube.com/embed/nsAjaJf2-Ug)
 
 ## Features
 
